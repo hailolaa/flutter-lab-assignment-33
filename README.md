@@ -1,1 +1,3 @@
-# flutter-lab-assignment-33
+# albums_list
+
+A new Flutter project.
